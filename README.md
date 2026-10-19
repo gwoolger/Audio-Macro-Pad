@@ -1,3 +1,3 @@
-# Audio Macro Pad
+# Sound Pad
 
-PCB and CAD files for a Macro Pad with a Rotary Encoder for precise volume control
+Will have PCB and CAD files for a Audio Pad with Rotary Encoders for precise volume and freq/pitch control.
