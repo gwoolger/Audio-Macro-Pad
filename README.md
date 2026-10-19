@@ -4,6 +4,10 @@ An instrument with precise rotary encoders for volume and frequency/pitch contro
 
 Will have a custom PCB and a custom case. Will also have keyboard switches akin to a macro pad, so it it multi use. e.g. could be used as an instrument, sound board, synth, macro pad etc.
 
+## Repo layout
+
+All files needed to replicate it can be found in .\hardware. This includes the Gerber, schematic and PCB design files. \images contains images used in the documentation. Aside from the readme, other files are cloned from Half Life.
+
 
 ## PCB Design
 Has a fairly simple PCB designed mainly to connect keyboard switches to a microcontroller. Namely a rp2040 zero.
