@@ -23,3 +23,19 @@ A fairly simple schematic so could be wired by hand. but would need some way to 
 PCB is under 100mm x 100mm so qualifies for the JLCPCB $4 prototype discount
 
 ![PCB render](images/PCB_render.png)
+
+## Case
+
+Is a compact single piece case. Holds a 2 row set of 4 keyboard switches, and has a slooed upper shelf/plate for two rotary encoders and a screen.
+
+![Case render](images/Case.png)
+
+## Code
+
+Will likely configure with something like vial or qmk to output midi signals, so it is an "instrument"
+
+## BOM
+
+Will total less than $65 for 2 pads. 1 for each hand - theyll just be duplicates.
+
+> Still to add
