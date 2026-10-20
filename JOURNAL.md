@@ -246,3 +246,7 @@ Oh and I'm also planning to make 2 of these. One for each hand.
 Spent way too long messing with slop positioning and angles, as well as reference pieces. Eventually got it finished, and it's looking pretty good
 
 ![9259](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/QXCoV5Opaf2tVWRHLncynf97ZTE9HKDO/14146552be09d6c137764f11f302d1f1a8604c81efe26acdb843506e53fd8ae5.png)
+
+## To Do
+I think now it's just finished the BOM, and add it to half life.
+Oh and I need to sort out the GitHub repo as well.
