@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 3 | 17.2h | 3 |
+| Week 3 | Tier 3 | 17.3h | 3 |
 
 ## Contents
 
@@ -22,7 +22,7 @@
 
 ### 2026-10-19 – # Made the Schematic
 
-**6h**
+**6.1h**
 
 # Made the Schematic
 
@@ -42,6 +42,16 @@ So I researched a bit for the BOM for that, to see if it would be feasible, and 
 Also I was originally planning to go with an ESP32, as I'm fairly experienced in using them, but looking at it, raspberry pi boards have much better community support, especially for this kind of thing, so I decided to give an rp2040 zero a go. I hope this doesn't come back to bite me in the build week when I do the code for it lol.
 
 ![9264](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/QXCoV5Opaf2tVWRHLncynf97ZTE9HKDO/1c8d4e312ff0efc8bd22ded777a138a890b251d3c242c9df07c4ebf0e82a3168.jpg)
+
+ I also had the problem for what parts to use, as there are many different types of parts..Take keyboard switches for example, there are loads of them, at varying price points, which theoretically all work. I decided to go with the outemu red keyboard switches as they seemed decent, and quite cheap.
+
+But then there's also other decisions like keycaps etc, so I basically went for the most average looking ones I could.
+
+![9255](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/QXCoV5Opaf2tVWRHLncynf97ZTE9HKDO/34a8b80b3788a433cf6ff22ddee6d60201b824b9fabc3f8c933204ed344195be.png)
+
+The other thing that was time consuming, as when I looked for rotary encoders originally, there were loads of options - smooth, detents, push button etc, but we're all really expensive. So after researching a lot, I found you can get rotary encoders called ec11's which can be found cheaply and have the appropriate functions.
+
+![9653](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/QXCoV5Opaf2tVWRHLncynf97ZTE9HKDO/e88e09683f3fddf94420df0927509705ac7da09e832f33e5f18a1e54638c44ac.png)
 
 ## Made the Schematic
 
