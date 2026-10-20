@@ -16,7 +16,7 @@
 
 1. [2026-10-19 – # Made the Schematic](#2026-10-19-made-the-schematic)
 2. [2026-10-19 – # Routed the board](#2026-10-19-routed-the-board)
-3. [2026-10-20 – # Started the case](#2026-10-20-started-the-case)
+3. [2026-10-20 – # Started the case, and changed the PCB](#2026-10-20-started-the-case-and-changed-the-pcb)
 
 ## Design
 
@@ -116,11 +116,11 @@ another photo (or 2) as it looks sick:
 
 ![9241](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/QXCoV5Opaf2tVWRHLncynf97ZTE9HKDO/fec3f31b05e3244bdb44fcffa75610b01bec32857d08a87bd976a23727940462.png)
 
-### 2026-10-20 – # Started the case
+### 2026-10-20 – # Started the case, and changed the PCB
 
 **5.9h**
 
-# Started the case
+# Started the case, and changed the PCB
 
 So I was bored last night, and decided to 3d model a case, as I'd finished the PCB all on the first day of the week.
 
@@ -146,13 +146,17 @@ But I did get it sorted in the end.
 
 I also then had the problem of deciding how thick to make the walls. As for a keyboard switch panel, from my research, the average thickness is 1.5mm. Which to me seemed too thin for a 3d print. So I made a design, which went to 1.5mm where the switches snapped in, but then tapered thicker in the middle.
 
+And I also spent a good while figuring out how I wanted to make the case. As in how many seperate pieces I would need. I knew I needed one for the switch panel, but I wanted to see if I could get away with just having that. so I made a lip on the inside which the PCB could get pushed up into, and then added some holes for threaded inserts which I can then use to screw the PCB in place. I also only added these to the back, as the switches should hold it up at the front, and I also dont have the space without making the case huge - it's currently only about a cm thick, and I think is like 10x8cm. So probably too compact.
+
+If I do it again, will make it less compact, so I could both design it, and later on, build and assemble it quicker.
+
 Then, I found out you can export a 3d model from Easyeda. So I exported it the switches and the rp2040, and realised I had a few problems.
 
 First of all, I couldn't make the panel any thicker, but also, the rp2040 zero would hit the top panel
 
 ![9247](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/QXCoV5Opaf2tVWRHLncynf97ZTE9HKDO/4af292237e987afc419eb120a16ab42dbfa59a50ccd3265f7eb3c9d15167e4e7.png)
 
-So firstly, I just decided to make the panel 1.5mm thick, which meant I'd have to get it printed out of some strong, but expensive material. Like mabye metal or something.
+So firstly, I just decided to make the panel 1.5mm thick, which meant I'd have to get it printed out of some strong, but expensive material. From research mabye metal or something.
 
 And I also decided that instead of rewiring the board, I'll just surface mount the rp2040. So I looked into doing that, then realised I had a few vias under the board. Had to get rid of those, otherwise they might cause problems.
 
@@ -161,3 +165,7 @@ So I rewired the board by hand, making sure there were no vias underneath the bo
 ![9249](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/QXCoV5Opaf2tVWRHLncynf97ZTE9HKDO/192beb6820ccd405a6936411f34ce1beb77a268b26812d7207b92766b6298e05.png)
 
 Then it was rather late, so I decided to come back to it the day after (will most likely get it done today - benefits of being on holiday - except I won't be at my computer for the last half of the week).
+
+## tl:dr
+
+SVG's in Fusion 360 can have the wrong scale. And are a pain to resize. Had to remodel the case for that. Part tolerances and clearances also are important. had to reroute the board for that.
