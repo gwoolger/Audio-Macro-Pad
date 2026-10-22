@@ -294,11 +294,11 @@ So I'll be figuring out how to wire them all up in the build week.
 
 ![9876](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/QXCoV5Opaf2tVWRHLncynf97ZTE9HKDO/6a70fcecc3cec5a0bc8e621eba5a35a85f8c9877196406e1589e0425710319e5.png)
 
-Shows as ~$64 here, but when I go to buy it later, it will invariably be much more expensive, as the deals won't work out etc - can be seen in the BOM, as parts will lose the new shopper discount when I buy stuff for the first week.
+Shows as ~$64 here for aliexpress, but when I go to buy it later, it will invariably be much more expensive, as the deals won't work out etc - can be seen in the BOM, as parts will lose the new shopper discount when I buy stuff for the first week. In the actual BOM it totals to $71.26, which is a more likely price.
 
 ![9877](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/QXCoV5Opaf2tVWRHLncynf97ZTE9HKDO/0b123b242facd5e0f6fe5878f224992ebe85912f35b807d5ca8c2a6f40107e0b.png)
 
-But with the JL3DP price of £28, it gets close to the $100 anyway - if slightly over.
+But with the JL3DP price of $17 + $10 shipping, it gets close to the $100 anyway. But still under.
 
 ## tl;dr
 
