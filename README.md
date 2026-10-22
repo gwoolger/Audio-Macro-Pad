@@ -39,7 +39,7 @@ Will likely configure with something like vial or qmk to output midi signals, so
 Will total less than $100 for 2 pads. 1 for each hand - theyll just be duplicates.
 
 | Item | Qty | Supplier | Cost/item | Total Cost | link |
-|---|---|---:|---|---:|---:|---|
+|---|---:|---|---:|---:|---|
 | Keyboard Switches | 1 | AliExpress | $9.06 | $9.06 | [link](https://www.aliexpress.com/item/1005006376024657.html?mp=1&pdp_npi=6%40dis%21USD%21USD+9.06%21USD+8.52%21%21USD+8.52%21%21%21%402103842a17925616571435669e0f55%2112000036949493875%21ct%21GB%218513385029%21%211%210%21) |
 | Keycaps | 2 | AliExpress | $4.22 | $8.44 | [link](https://www.aliexpress.com/item/1005009364428646.html?mp=1&pdp_npi=6%40dis%21USD%21USD+4.22%21USD+4.22%21%21USD+4.22%21%21%21%400b0fe08917925617141713066e0ef9%2112000048873877393%21ct%21GB%218513385029%21%211%210%21) |
 | 2pcs encoder knobs | 2 | AliExpress | $3.42 | $6.84 | [link](https://www.aliexpress.com/item/1005006063377230.html?mp=1&pdp_npi=6%40dis%21USD%21USD+3.42%21USD+3.42%21%21USD+3.42%21%21%21%400b0fe08917925617141713066e0ef9%2112000060167208476%21ct%21GB%218513385029%21%212%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D) |
