@@ -302,6 +302,10 @@ But with the JL3DP price of $17 + $10 shipping, it gets close to the $100 anyway
 
 Also from my understanding the BOM.csv total is the total budget I have to buy things, so with coupons it should mean that it should be a bit cheaper. But anyway, with everything at its full price it's still under.
 
+## Extras
+
+Oh and my plans for the speaker, is to get one with a battery, and basically just hijack it. so it should be able to work without being plugged in (think I've got some buck/boost converters around). Also when I made the PCB, I made sure to expose the extra pins, so I have 4 analogue to digital pins that I can use.
+
 ## tl;dr
 
 Finished the BOM, but changed some parts.
