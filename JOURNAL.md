@@ -282,7 +282,7 @@ I realised that when I modelled the CAd for the rotary encoders, whilst I made a
 
 ![9874](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/QXCoV5Opaf2tVWRHLncynf97ZTE9HKDO/d438953c27432c1521fe66e0b4ce9fa95a2cae8369163fa73d3ee079d1784437.jpg)
 
-So as I don't have enough time to remodel the CAD, and as I'm not sure how I would, as the EC11's have different base measurements, I'm planning just to glue them in. So I've picked up a gluer for that.
+So as I don't have enough time to remodel the CAD, and as I'm not sure how I would, as the EC11's have different base measurements, I'm planning just to glue them in. So I've picked up a gluer for that. And if I tried to model it into the case and got it wrong, then it would be more costly than this.
 
 Also realised that it's meant to be a sound week, and mine will only output midi signals, not actual sound. But I did find out you can get some speakers for fairly cheap
 
@@ -299,6 +299,8 @@ Shows as ~$64 here for aliexpress, but when I go to buy it later, it will invari
 ![9877](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/QXCoV5Opaf2tVWRHLncynf97ZTE9HKDO/0b123b242facd5e0f6fe5878f224992ebe85912f35b807d5ca8c2a6f40107e0b.png)
 
 But with the JL3DP price of $17 + $10 shipping, it gets close to the $100 anyway. But still under.
+
+Also from my understanding the BOM.csv total is the total budget I have to buy things, so with coupons it should mean that it should be a bit cheaper. But anyway, with everything at its full price it's still under.
 
 ## tl;dr
 
